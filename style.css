@@ -1,0 +1,53 @@
+.texto{
+	text-align: center;
+}
+
+p{
+	font-size: 25px
+}
+
+.item{
+	display: block;
+	vertical-align: top;
+	margin-right:40px;
+	color: orange;
+	font-size: 25px;
+}
+
+.Tabela{
+	margin-right:100px ;
+	margin-left:100px ;
+	text-align: center;
+	display: inline-block;
+	background: lightgreen;
+	border-radius: 20px;
+	border-color: green ;
+	border-width: 2px;
+	border-style: solid;
+}
+
+#Corpo{
+	background: lightgoldenrodyellow;
+}
+
+#IMG1{
+	border-color: black;
+	border-radius: 500px;
+	border-width: 2px;
+	border-style: solid;
+	vertical-align: top;
+	width: 350px;
+	height: 520px;
+}
+
+#IMG2{
+	border-color: black;
+	border-radius: 500px;
+	border-width: 2px;
+	border-style: solid;
+	vertical-align: top;
+	width: 350px;
+	height: 520px;
+
+
+}
